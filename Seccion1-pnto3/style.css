@@ -4,16 +4,30 @@
     font-family: 'Poppins', sans-serif;
     background-color:rgb(143, 250, 97) ;
 }
-.div{
-    padding: 50px;
-    width: 400px;
-    height: 100px;
-    margin: auto;
-    border: 2px solid;
-    border-radius: 40px;
-    box-shadow: 2px 3px 4px 5px;
-    background-color: bisque;
+
+th{
+    background-color: aquamarine;
 }
-.s1{
-    background-color: bisque;
+
+td{
+    background-color: #fff;
+    text-align: center;
+    width: 100px;
+}
+table{
+    font-size: 20px;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    margin-top: 100px;
+}
+.clase1{
+    width: 300px;
+    height: 100px;
+    margin:auto;
+    margin-top: 100px;
+}
+input{
+    width: 30px;
+    height: 30px;
 }
