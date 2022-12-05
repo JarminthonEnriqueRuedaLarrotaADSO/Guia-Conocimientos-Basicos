@@ -12,19 +12,31 @@ border-radius: 60px;
     height: 200px;
     margin:auto;
     margin-top: 200px;
-    
+
 }
 .input{
     display: inline-block;
     border-radius: 9px;
 
 }
-.enunciado{
+#respuesta{
     display: inline-block;
 }
 #respues{
+    margin-left: 10px;
+    display: inline-block;
     margin-top:100px;
-    width: 200px;
+    width: 400px;
     height: 20px;
     margin: auto;
+}
+.input1{
+border-radius: 9px;
+margin-top: 20px;
+}
+.envio
+{
+display: block;
+margin-left: 50px;
+margin-top: 20px;
 }
