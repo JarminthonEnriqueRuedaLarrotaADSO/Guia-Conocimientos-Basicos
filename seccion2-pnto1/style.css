@@ -4,36 +4,27 @@
     font-family: 'Poppins', sans-serif;
     background-color:#fff ;
 }
-.divcito
-{
-    padding: 20px;
-    margin-top: 50px;
-margin: auto;
- width: 400px;
- height: 300px;
- border: 2px solid black;
-}
-#edad{
-    display: inline-block;
-    margin-top: 40px;
-    width: auto;
-    height: auto;
-}
-#edad1{
-    margin-top: 40px;
-    width: auto;
-    height: auto;
-}
-.boton{
-    width: 50px;
-    height: 70px;
-    margin: auto;
-    margin-top: 40px;
-
+.año{
+    padding: 30px;
+border: 5px solid black;
+border-radius: 60px;
+    width: 700px;
+    height: 200px;
+    margin:auto;
+    margin-top: 200px;
     
 }
-p{
+.input{
+    display: inline-block;
+    border-radius: 9px;
+
+}
+.enunciado{
+    display: inline-block;
+}
+#respues{
+    margin-top:100px;
     width: 200px;
-    height: auto;
-    margin:auto ;
+    height: 20px;
+    margin: auto;
 }
