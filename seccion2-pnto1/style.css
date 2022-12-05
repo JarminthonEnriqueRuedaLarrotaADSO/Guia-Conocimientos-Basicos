@@ -4,39 +4,34 @@
     font-family: 'Poppins', sans-serif;
     background-color:#fff ;
 }
-.año{
-    padding: 30px;
-border: 5px solid black;
-border-radius: 60px;
-    width: 700px;
-    height: 200px;
-    margin:auto;
-    margin-top: 200px;
+
+.diseño{
+    padding: 40px;
+    width: 600px;
+    height: auto;
+    margin: auto;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+.inputs{
+    width: 200px;
+    height: auto;
+    margin: auto;
 
 }
-.input{
-    display: inline-block;
-    border-radius: 9px;
+.boton{
+    width: 70px;
+    height: auto;
+    margin-left: 50px;
+    margin-top: 50px ;
 
+}
+.grados{
+    width: 200px;
 }
 #respuesta{
     display: inline-block;
-}
-#respues{
-    margin-left: 10px;
-    display: inline-block;
-    margin-top:100px;
-    width: 400px;
-    height: 20px;
-    margin: auto;
-}
-.input1{
-border-radius: 9px;
-margin-top: 20px;
-}
-.envio
-{
-display: block;
-margin-left: 50px;
-margin-top: 20px;
+    width: auto;
+    margin-left: 35%;
+    height: auto;
 }
